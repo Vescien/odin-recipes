@@ -1,0 +1,1 @@
+First odin HTML project to brush up HTML skills that I've learned so far
