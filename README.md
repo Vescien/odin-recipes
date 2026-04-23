@@ -1,1 +1,1 @@
-First odin project to brush up HTML skills that I've learned so far
+First odin project to brush up HTML and CSS skills learned so far
