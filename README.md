@@ -1,1 +1,1 @@
-Project to practice HTML skills learned so far
+Project to practice skills learned so far.
